@@ -1,1 +1,2 @@
-My first readme Alx gyz are cool
+My first readme.
+ALX gyz are cool
